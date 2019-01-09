@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/opcion1"
+        android:icon="@android:drawable/sym_action_call"
+        android:title="@string/papa" />
+    <item
+        android:id="@+id/opcion2"
+        android:icon="@android:drawable/sym_action_call"
+        android:title="@string/mama" />
+    <item
+        android:id="@+id/opcion3"
+        android:icon="@android:drawable/sym_action_call"
+        android:title="@string/Otro" />
+</menu>

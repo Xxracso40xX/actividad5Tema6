@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Llamadas personales</string>
+    <string name="SubMenu">SubMenu</string>
+    <string name="enviar_correo">enviar_correo</string>
+    <string name="telefonear">telefonear</string>
+    <string name="acercaDe">acercaDe</string>
+    <string name="facebook">facebook</string>
+    <string name="telefono">telefono</string>
+    <string name="Otro">Otro</string>
+    <string name="mama">Mamá</string>
+    <string name="papa">Papá</string>
+</resources>
